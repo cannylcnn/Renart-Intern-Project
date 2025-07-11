@@ -1,6 +1,6 @@
-# RenArt Case Study – Ürün Listeleme Uygulaması
+# RenArt Case Study – Product Listing Application
 
-Bu proje, RenArt case study kapsamında geliştirdiğim tam kapsamlı bir ürün listeleme uygulamasıdır.  
-Backend kısmı Node.js (Express) ile yazıldı, frontend ise React ile hazırlandı.  
-Ürünler gerçek zamanlı altın fiyatına göre dinamik şekilde fiyatlandırılıyor, kullanıcılar fiyat ve popülerliğe göre filtreleme yapabiliyor.  
-Tasarımda belirtilen düzeni birebir uygulamaya dikkat ettim. Carousel, renk seçici ve responsive yapı da uygulandı.
+This project is a full-fledged product listing application that I developed as part of the RenArt case study.
+The backend was written in Node.js (Express), while the frontend was developed in React.
+Products are dynamically priced based on the real-time gold price, and users can filter by price and popularity.
+I made sure to follow the design layout exactly. A carousel, color picker, and responsive structure were also implemented.
